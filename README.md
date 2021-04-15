@@ -1,4 +1,4 @@
-# GUMERNUS
+# Gumernus
 
 > Javascript Developer / Python Develper
 
@@ -10,7 +10,7 @@
 
 ## Github Staty 
 
-<img src="https://github-readme-stats.vercel.app/api?username=gumernus&show_icons=true&theme=dark"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=gumernus"><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumernus&theme=dark&layout=compact"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumernus"><br>
 
