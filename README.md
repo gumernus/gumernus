@@ -1,9 +1,6 @@
 # Gumernus
 
-> Javascript Developer / Python Develper
-
-
-## O mě
+> Javascript Developer / Python Developer
 
 > My name is Michael and I come from the Czech Republic. I specialize mainly in Javascript.
 
