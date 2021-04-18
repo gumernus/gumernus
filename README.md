@@ -5,10 +5,9 @@
 
 ## O mě
 
-> Mé jméno je Michal a pocházím z České Republiky. Specialzuju se hlavně na Javascript, ale občas se pustím do trochy pythonu, html a css. 
+> My name is Michael and I come from the Czech Republic. I specialize mainly in Javascript.
 
-
-## Github Staty 
+## Github Stats 
 
 <img src="https://github-readme-stats.vercel.app/api?username=gumernus"><br>
 
