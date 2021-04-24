@@ -1,6 +1,6 @@
 # Gumernus
 
-> Javascript Developer / Python Developer
+> Javascript Developer / Python Developer / Web Developer / Artist / IT Student
 
 ## Github Stats 
 
