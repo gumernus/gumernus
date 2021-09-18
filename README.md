@@ -11,12 +11,19 @@
 ➤⌠🔬⌡ Learning APIs and new [Discord.js V13](https://github.com/discordjs/discord.js/)
 
 ---
-
-➤🚀⌡ [Discord](https://discord.gg/xv5rhspFBg)
-
-➤⌠📸⌡ [Instagram](https://www.instagram.com/gumernus)
-
-➤⌠💎⌡ [Twitter](https://twitter.com/michal_lmao)
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      Discord https://discord.gg/xv5rhspFBg
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      Instagram https://www.instagram.com/gumernus.jpg
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+     Twitter https://twitter.com/michal_lmao
+    </td>
+  </tr>
+</table>
 
 ---
 
