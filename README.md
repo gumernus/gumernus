@@ -11,7 +11,7 @@
 ➤⌠🔬⌡ Learning APIs and new [Discord.js V13](https://github.com/discordjs/discord.js/)
 
 ---
-<table>
+<table style="border-radius:6px;" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
       Discord https://discord.gg/xv5rhspFBg
@@ -27,7 +27,7 @@
 
 ---
 
-<table>
+<table style="border-radius:6px;" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/?username=gumernus&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
