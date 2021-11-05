@@ -1,4 +1,4 @@
-# Hi, I'm [Michal](https://www.instagram.com/gumernus/) 👋
+# Hi, I'm [Michal](https://www.instagram.com/gumernus/) 👋 
 
 ### Node.js Developer, Artist and IT Student
 
@@ -39,6 +39,7 @@
 </table>
 
 ---
+[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com) 
 
 
 
