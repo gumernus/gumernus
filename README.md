@@ -8,7 +8,7 @@
 
 ➤⌠❤️⌡ Single, like every programer :D
 
-➤⌠🔬⌡ Learning [Mongoose](https://github.com/Automattic/mongoose) , [Vue.js v3](https://github.com/vuejs/vue) , [Discord.js V13](https://github.com/discordjs/discord.js/)
+➤⌠🔬⌡ Learning [Mongoose.js](https://github.com/Automattic/mongoose) , [Vue.js v3](https://github.com/vuejs/vue) , [Discord.js V13](https://github.com/discordjs/discord.js/)
 
 ---
 <table style="border-radius:6px;" >
