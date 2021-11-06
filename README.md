@@ -6,8 +6,6 @@
 
 ➤⌠🔭⌡ I’m currently working on [Bialu](https://github.com/Bialu-Software/)
 
-➤⌠❤️⌡ Single, like every programer :D
-
 ➤⌠🔬⌡ Learning [Mongoose.js](https://github.com/Automattic/mongoose) , [Vue.js v3](https://github.com/vuejs/vue) , [Discord.js V13](https://github.com/discordjs/discord.js/)
 
 ---
