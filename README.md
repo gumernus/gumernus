@@ -4,7 +4,7 @@
 
 ---
 
-➤⌠🔭⌡ I’m currently working on [Bialu](https://github.com/Bialu-Software/)
+➤⌠🔭⌡ I’m currently working on [Bialu Software](https://github.com/Bialu-Software/)
 
 ➤⌠🔬⌡ Learning [Mongoose.js](https://github.com/Automattic/mongoose) , [Vue.js v3](https://github.com/vuejs/vue) , [Discord.js V13](https://github.com/discordjs/discord.js/)
 
