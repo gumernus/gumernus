@@ -6,7 +6,7 @@
 
 ➤⌠🔭⌡ I’m currently working on [Bialu Software](https://github.com/Bialu-Software/)
 
-➤⌠🔬⌡ Learning [Mongoose.js](https://github.com/Automattic/mongoose) , [Vue.js v3](https://github.com/vuejs/vue) , [Discord.js V13](https://github.com/discordjs/discord.js/)
+➤⌠🔬⌡ Learning [Typescript](https://github.com/microsoft/TypeScript) [Mongoose.js](https://github.com/Automattic/mongoose) , [Vue.js v3](https://github.com/vuejs/vue) , [Discord.js V13](https://github.com/discordjs/discord.js/)
 
 ---
 <table style="border-radius:6px;" >
