@@ -1,6 +1,6 @@
 # Hi, I'm [Michal](https://www.instagram.com/gumernus/) 👋 
 
-### Node.js Developer, Artist and IT Student
+### Developer, Artist and IT Student
 
 ---
 
