@@ -3,10 +3,11 @@
 ### Developer, Artist and IT Student
 
 ---
+➤⌠🧻⌡ My main languages are TypeScript, JavaScript and Python
 
-➤⌠🔭⌡ I’m currently working on [Bialu Software](https://github.com/Bialu-Software/)
+➤⌠🔭⌡ I’m currently working on my project [Bialu Software](https://github.com/Bialu-Software/) and also on my own [Blockchain](https://github.com/gumernus/blockchain)
 
-➤⌠🔬⌡ Learning [Typescript](https://github.com/microsoft/TypeScript), [Mongoose](https://github.com/Automattic/mongoose) , [Vue.js V3](https://github.com/vuejs/vue) , [Discord.js V13](https://github.com/discordjs/discord.js/)
+➤⌠🔬⌡ The technologies I'm learning now are [Typescript](https://github.com/microsoft/TypeScript), [Mongoose](https://github.com/Automattic/mongoose) , [Vue.js V3](https://github.com/vuejs/vue) , [Discord.js V13](https://github.com/discordjs/discord.js/)
 
 ---
 <table style="border-radius:6px;" >
