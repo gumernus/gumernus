@@ -1,5 +1,3 @@
----
-
 # Hi, I'm [Michal](https://www.instagram.com/gumernus/) 👋 
 
 ### Developer, Artist and IT Student
