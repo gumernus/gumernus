@@ -3,7 +3,7 @@
 ### Developer, Artist and IT Student
 
 ---
-➤⌠🧻⌡ My main languages are TypeScript, JavaScript and Python
+➤⌠🧻⌡ My main languages are TypeScript, C++ and Python
 
 ➤⌠🔭⌡ I’m currently working on my project [Bialu Software](https://github.com/Bialu-Software/) and also on my own [Blockchain](https://github.com/gumernus/blockchain)
 
