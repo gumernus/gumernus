@@ -1,4 +1,4 @@
-<img src="" align="center"></img>
+<img src="https://raw.githubusercontent.com/gumernus/gumernus/main/banner.jpg" align="center"></img>
 
 
 ### Developer, Artist and IT Student
