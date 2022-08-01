@@ -4,18 +4,15 @@
 ### Developer, Artist and IT Student
 
 ---
-➤⌠🧻⌡ My main languages are TypeScript, C++ and Python
+🧻 My main languages are TypeScript, C++ and Python
 
-➤⌠🔭⌡ I’m currently working on my project [Bialu Software](https://github.com/Bialu-Software/) and also on my own [Blockchain](https://github.com/gumernus/blockchain)
+🔭 I’m currently working on my project [Bialu Software](https://github.com/Bialu-Software/) and also on my own webserver in c++
 
-➤⌠🔬⌡ The technologies I'm learning now are [Typescript](https://github.com/microsoft/TypeScript), [Mongoose](https://github.com/Automattic/mongoose) , [Vue.js V3](https://github.com/vuejs/vue) , [Discord.js V13](https://github.com/discordjs/discord.js/)
+🔬 The technologies I'm learning now are [Typescript](https://github.com/microsoft/TypeScript), [C++](https://cplusplus.com), [Discord.js V14](https://github.com/discordjs/discord.js/)
 
 ---
 <table style="border-radius:6px;" >
   <tr>
-    <td align="center" style="padding=0;width=50%;">
-      Discord https://discord.gg/xv5rhspFBg
-    </td>
     <td align="center" style="padding=0;width=50%;">
       Instagram https://www.instagram.com/gumernus.jpg
     </td>
