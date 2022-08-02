@@ -11,18 +11,6 @@
 🔬 The technologies I'm learning now are [Typescript](https://github.com/microsoft/TypeScript), [C++](https://cplusplus.com), [Discord.js V14](https://github.com/discordjs/discord.js/)
 
 ---
-<table style="border-radius:6px;" >
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      Instagram https://www.instagram.com/gumernus.jpg
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-     Twitter https://twitter.com/michal_lmao
-    </td>
-  </tr>
-</table>
-
----
 
 <table style="border-radius:6px;" >
   <tr>
