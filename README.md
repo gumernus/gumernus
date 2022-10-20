@@ -25,4 +25,4 @@
 
 ---
 
-### If you want website. I can build one for you [here](https://www.fiverr.com/gumernus/create-modern-style-website). Or you can contact me on Discord (Gumernus#0122)
+### If you wanna support my work you can <a href='https://ko-fi.com/R5R5FTFAZ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
