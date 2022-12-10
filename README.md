@@ -8,7 +8,7 @@
 
 🔭 I’m currently working on my project [Bialu Software](https://github.com/Bialu-Software/)
 
-🔬 The technologies I'm learning now are [Typescript](https://github.com/microsoft/TypeScript), [C++](https://cplusplus.com), [Discord.js V14](https://github.com/discordjs/discord.js/)
+🔬 The technologies I'm learning now are [Typescript](https://github.com/microsoft/TypeScript), [C++](https://cplusplus.com), [Docker](https://docs.docker.com/engine/api/v1.41)
 
 ---
 
