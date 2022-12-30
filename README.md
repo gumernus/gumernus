@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/gumernus/gumernus/main/banner.jpg" align="center"></img>
 
 
-### Developer, Artist and IT Student
+### Developer, Artist, Student and [Cyclist](https://www.strava.com/athletes/111879102)
 
 ---
 🧻 My main languages are TypeScript, C++ and Python
@@ -25,4 +25,4 @@
 
 ---
 
-### If you wanna support my work you can [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R5FTFAZ)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R5FTFAZ)
