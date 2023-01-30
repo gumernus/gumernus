@@ -25,4 +25,5 @@
 
 ---
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R5FTFAZ)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R5FTFAZ)<img width="223" hspace="20" alt="Powered by Bialu Software" src="https://user-images.githubusercontent.com/70224036/215560095-1fd334d5-af3a-4dfe-a603-91aefb0a48ff.png">
+
