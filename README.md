@@ -25,7 +25,7 @@
 
 ---
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R5FTFAZ) <a href="https://github.com/Bialu-Software/" ><img width="223" hspace="10" alt="white-icon" src="https://user-images.githubusercontent.com/70224036/215567766-de31dd55-080c-4253-9dee-e653ee6872e8.png"> </a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R5FTFAZ) <a href="https://github.com/Bialu-Software/" ><img width="223" hspace="10" alt="white-icon" src="https://media.discordapp.net/attachments/1055532722304585765/1069690405425254420/blue-icon.png?width=602&height=80"> </a>
 
 
 
