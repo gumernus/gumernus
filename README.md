@@ -1,5 +1,4 @@
 
-<img src="https://www.spsbv.cz/images/vedeni/Mechura.png" align="center" width="100%" height="auto"></img>
 <img src="https://raw.githubusercontent.com/gumernus/gumernus/main/banner.jpg" align="center"></img>
 
 ### Developer, Artist, Student and [Cyclist](https://www.strava.com/athletes/111879102)
