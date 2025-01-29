@@ -24,8 +24,6 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R5FTFAZ) <a href="https://github.com/Bialu-Software/" ><img width="223" hspace="10" alt="Powered by Bialu Software" src="https://media.discordapp.net/attachments/1055532722304585765/1069690405425254420/blue-icon.png?width=602&height=80"> </a>
 
-https://github.com/gumernus/gumernus/assets/70224036/4cb8c452-5d3f-441a-98c7-d245c1462fcd
-
 
 
 
